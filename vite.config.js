@@ -23,7 +23,7 @@ export default defineConfig({
       ],
     }),
   ],
-  base:'/academic-project-page-template-vue',
+  base:'/FlexADT_web_prototype',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
